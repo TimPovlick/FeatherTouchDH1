@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ASCOM.FeatherTouchDH1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HubCodeVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2.6</Value>
+    </Setting>
+    <Setting Name="BacklashSteps" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="COMPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="DeltaSteps" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DeltaT" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FinalDirectionIsOut" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FocusSpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="FocuserModel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AP27FTMU</Value>
+    </Setting>
+    <Setting Name="FocuserModelIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="BacklashFinalDirectionIsOut" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LastFocusPosition" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Logging" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MaxIncrement" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3120</Value>
+    </Setting>
+    <Setting Name="MaxStep" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3120</Value>
+    </Setting>
+    <Setting Name="MotorControlerVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1.6</Value>
+    </Setting>
+    <Setting Name="NoCalibrationOnPowerUp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ReverseInOut" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SerialDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="StepResolution" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Medium</Value>
+    </Setting>
+    <Setting Name="StepSize" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">13.04</Value>
+    </Setting>
+    <Setting Name="EnableLogging" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IsMovingCacheTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
